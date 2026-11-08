@@ -1,0 +1,8 @@
+# never commit device dumps or derived images
+*.bin
+*.img
+*.apk
+*.zip
+*.patch_report.json
+*.log
+backups/
